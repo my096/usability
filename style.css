@@ -36,3 +36,19 @@ a{
     text-decoration: none;
     display: inline-block;
 }
+.container{
+    max-width: 1180px;
+    margin-inline: auto;
+    /* padding-inline: ; */
+}
+/* top banner */
+.top-banner{
+    background-image: url("asset\ 32.png");
+    background-size: 300px;
+    background-color: #4fd3d4;
+}
+.banner-text{
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+}
